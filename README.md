@@ -1,6 +1,6 @@
 # Algorithms and Data Structures Masterclass Course.
 
-This are some of my solutions for some of coding challenges related to Udemy DSA Masterclass.
+Some of the challenges that are part of the  Udemy DSA Masterclass.
 
 ## Built With
 
